@@ -1,2 +1,2 @@
-# Step 1
-Farm maagement System
+# Farm Management
+Step 1: Farm maagement System
